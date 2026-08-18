@@ -1,0 +1,45 @@
+body {
+  background-color: blue;
+  margin: 0px;
+}
+
+.boton {
+  background-color: lightblue;
+}
+.destacado {
+  background-color: greenyellow;
+}
+.tocados {
+  background-color: red;
+}
+header {
+  text-align: center;
+  background-color: lightblue;
+  margin: 0px;
+}
+h1 {
+  margin: 0px;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+#vidas {
+  background-color: orange;
+}
+#rondas {
+  background-color: violet;
+}
+footer {
+  position: absolute;
+  bottom: 0px;
+  text-align: left;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 10px;
+}
