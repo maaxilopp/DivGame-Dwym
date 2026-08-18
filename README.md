@@ -4,7 +4,7 @@
 
 Un juego de reflejos hecho con HTML, CSS y JavaScript puro. Se genera una grilla de botones dinámicamente y uno de ellos se destaca al azar: hay que clickearlo antes de que el tiempo se agote o cambie solo a otro.
 
-##Interfaz gráfica:
+## Interfaz gráfica:
 
 <img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/3c250951-1d13-4bdf-9187-f5122ec0209b" />
 
@@ -45,10 +45,3 @@ Abrí `ejercicio2.html` en el navegador (o usá la extensión Live Server de VS 
 - CSS
 - JavaScript (sin librerías)
 
-## Datos académicos
-
-- **Autor:** Maximiliano López
-- **Asignatura:** Desarrollo Web y Mobile
-- **Profesores:** Leonardo Val, Michel Sampil
-- **Período:** Segundo Semestre de 2026
-- **Institución:** Facultad de Ingeniería y Tecnologías de la Universidad Católica del Uruguay
