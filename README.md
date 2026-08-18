@@ -4,7 +4,9 @@
 
 Un juego de reflejos hecho con HTML, CSS y JavaScript puro. Se genera una grilla de botones dinámicamente y uno de ellos se destaca al azar: hay que clickearlo antes de que el tiempo se agote o cambie solo a otro.
 
-![Captura del juego](img/captura.png)
+<img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/3c250951-1d13-4bdf-9187-f5122ec0209b" />
+
+
 
 ## Cómo se juega
 
