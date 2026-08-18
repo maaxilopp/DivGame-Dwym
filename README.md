@@ -1,8 +1,10 @@
-# DivGame
+# DivGame - Ejercicio de la asignatura Desarrollo Web y Mobile
 
 [![Maximiliano López](https://img.shields.io/badge/GitHub-Maximiliano_López-B7E3FF?logo=github&logoColor=black)](https://github.com/maaxilopp)
 
 Un juego de reflejos hecho con HTML, CSS y JavaScript puro. Se genera una grilla de botones dinámicamente y uno de ellos se destaca al azar: hay que clickearlo antes de que el tiempo se agote o cambie solo a otro.
+
+##Interfaz gráfica:
 
 <img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/3c250951-1d13-4bdf-9187-f5122ec0209b" />
 
