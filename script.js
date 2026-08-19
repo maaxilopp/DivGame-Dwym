@@ -74,8 +74,13 @@ function generarGrilla(document, filas, columnas, ancho, alto) {
   }
 
   function mostrarVidas() {
-    const elemento = document.getElementById("vidas");
-    elemento.textContent = "Vidas restantes: " + "❤️".repeat(vidas);
+    if (vidas > 0) {
+      const elemento = document.getElementById("vidas");
+      elemento.textContent = "Vidas restantes: " + "❤️".repeat(vidas);
+    } else {
+      const elemento = document.getElementById("vidas");
+      elemento.textContent = "No tienes mas vidas :((" + "💔";
+    }
   }
 
   function mostrarRondas() {
